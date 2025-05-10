@@ -8,4 +8,4 @@ Then go to the config.yml and scroll to the packages part and add
 ``- ballsdex.packages.moderation`` with proper indentations. Now do CTRL+S to save the changes and run docker compose up in your terminal!.
 
 
--# If you have any errors, dm my discord “molten_is_glitched”
+If you have any errors, dm my discord “molten_is_glitched”
